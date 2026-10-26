@@ -1,2 +1,3 @@
 xin chao, toi dang hoc Git
 toi dang hoc cach su dung Git
+Toi da biet cach day code len github
