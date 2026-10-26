@@ -1,1 +1,2 @@
 xin chao, toi dang hoc Git
+toi dang hoc cach su dung Git
